@@ -286,6 +286,13 @@
           }
         ],
         "lineageTag": "8093d4f2-64ff-461c-a371-d6d8baa88d43",
+        "measures": [
+          {
+            "name": "Test 2",
+            "expression": "\" This is Measure \" ",
+            "lineageTag": "b7072b6e-ae0c-434f-8020-dafa7e8eec4c"
+          }
+        ],
         "partitions": [
           {
             "name": "HumanResources vEmployee",
