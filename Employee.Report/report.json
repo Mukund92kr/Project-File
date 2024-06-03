@@ -25,7 +25,17 @@
       "filters": "[]",
       "height": 720.00,
       "name": "a76a7296499247b8001a",
-      "visualContainers": [],
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"2b64aab10ad9d1ac883a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":568.8232715864265,\"y\":232.44273224295833,\"z\":0,\"width\":557.4846017209163,\"height\":279.68719001591734,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"tableEx\",\"projections\":{\"Values\":[{\"queryRef\":\"HumanResources vEmployee.FirstName\"},{\"queryRef\":\"HumanResources vEmployee.LastName\"},{\"queryRef\":\"HumanResources vEmployee.MiddleName\"},{\"queryRef\":\"HumanResources vEmployee.JobTitle\"},{\"queryRef\":\"HumanResources vEmployee.PhoneNumber\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HumanResources vEmployee\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"FirstName\"},\"Name\":\"HumanResources vEmployee.FirstName\",\"NativeReferenceName\":\"FirstName\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"LastName\"},\"Name\":\"HumanResources vEmployee.LastName\",\"NativeReferenceName\":\"LastName\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"MiddleName\"},\"Name\":\"HumanResources vEmployee.MiddleName\",\"NativeReferenceName\":\"MiddleName\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"JobTitle\"},\"Name\":\"HumanResources vEmployee.JobTitle\",\"NativeReferenceName\":\"JobTitle\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"PhoneNumber\"},\"Name\":\"HumanResources vEmployee.PhoneNumber\",\"NativeReferenceName\":\"PhoneNumber\"}]},\"drillFilterOtherVisuals\":true}}",
+          "filters": "[]",
+          "height": 279.69,
+          "width": 557.48,
+          "x": 568.82,
+          "y": 232.44,
+          "z": 0.00
+        }
+      ],
       "width": 1280.00
     }
   ]
